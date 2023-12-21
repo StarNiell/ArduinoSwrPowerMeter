@@ -1,5 +1,5 @@
 # Description
-This project help you to build a Power and Swr Meter (for HF) using Arduino Uno R3 (or compatible) and cheap board SWR Bridge v.1.4 available on Amazon or Ali Express for about 5$
+This project help you to build a Power and Swr Meter (for HF) using Arduino Uno R3 (or compatible) and cheap board SWR Bridge v.1.4 available on Amazon or Ali Express for about 5$.
 Despite the very low cost of this project, the POWER and SWR read on the device are very accurate, thanks to the volt watt conversion table written in the source code.
 
 
