@@ -6,7 +6,7 @@ This project help you to build a Power and Swr Meter (for HF) using Arduino Uno 
 * Display LCD I2C 16 columns 2 rows
 * SWR Bridge v1.4 (cheap board)
 * 2 PL connectors
-* 2 100K resistors (Between FWD and GND - REV abd GND)
+* 2 100K resistors (Between FWD -> GND and REV -> GND)
 * Metal box
 
 ## Connections
