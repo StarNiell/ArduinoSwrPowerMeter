@@ -15,6 +15,7 @@ This project help you to build a Power and Swr Meter (for HF) using Arduino Uno 
 * SCL of the I2C Display to Arduino A5 analog pin
 * FWD of SWR Bridge to Arduino A6 analog pin (with a 100K resistor to GND)
 * REV of SWR Bridge to Arduino A7 analog pin (with a 100K resistor to GND)
+* Both PL connectors on IN and OUT of SWR Bridge v1.4
 
 **NOTE: The IN and OUT of the SWR Bridge v.1.4 are inverted!! This is a bug of the cheap board!!!**
 
