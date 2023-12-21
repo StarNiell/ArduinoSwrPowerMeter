@@ -16,6 +16,8 @@ This project help you to build a Power and Swr Meter (for HF) using Arduino Uno 
 * FWD of SWR Bridge to Arduino A6 analog pin (with a 100K resistor to GND)
 * REV of SWR Bridge to Arduino A7 analog pin (with a 100K resistor to GND)
 
+**NOTE: The IN and OUT of the SWR Bridge v.1.4 are inverted!! This is a bug of the cheap board!!!**
+
 ## Current Volt to Watt Table
 * 1 watt = 0.90 volt
 * 2 watt = 1.16 volt
