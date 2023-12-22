@@ -39,4 +39,6 @@ This values are valid using a 100K resistor between FWD (and REV) and GND!
 You can write your own table by measuring the volt values between FWD and GND with a voltmeter and read the corrisponfance power in watt on the external Power Meter.
 The table is stored in `rwatt[]` array and `rvolt[]` array of the arduino code.
 
-**NOTE: You can use a divider for increment the scale**
+**You can use a resistive divider for increment the scale**
+
+**NOTE**: Pay attention to the voltage on the 5 Volt pin of Arduino. In the source code file, there is a variable (`VoltRef`)... set it to real value: to me the value is **4.48 volt**!! This value is important for the accurate translation of volt value in watt!
